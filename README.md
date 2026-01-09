@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Wesley Fraga
 
-<!--
-**wsfraga/wsfraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End em formação  
+📚 Estudante Full Stack  
+🎯 Foco atual em Front-End
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Atualmente estudo desenvolvimento web com foco em **Front-End**, criando interfaces responsivas e funcionais.
+No curso, tenho contato com **Full Stack**, o que me ajuda a entender melhor o funcionamento das aplicações como um todo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+*(em evolução constante 🚀)*
+
+## 📌 Projetos em destaque
+- 🔗 **BikCraft** –
+
+## 🎯 Objetivo
+Busco oportunidade de **estágio ou posição júnior em Front-End**, onde eu possa aprender, evoluir e contribuir com projetos reais.
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/wesley-fraga-188384392  
+- Email: wesleyrodriguesfraga14@gmail.com
